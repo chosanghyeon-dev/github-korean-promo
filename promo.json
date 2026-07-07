@@ -1,10 +1,9 @@
 {
-  "id": "inflearn-dev-2026-06",
-  "enabled": false,
-  "title": "클로드 코드 완벽 마스터: AI 개발 워크플로우 기초부터 실전까지",
-  "desc": "탐색 → 계획 → 구현 → 커밋. 검증된 AI 개발 워크플로우를 클로드 코드로 마스터하세요. MCP, 서브에이전트, 프롬프트 엔지니어링까지 23개 미션으로 익히고, 3개 실전 프로젝트를 완성합니다.",
-  "cta": "할인받고 강의 보러가기 →",
-  "partnerLink": "https://inf.run/rEwNV",
-  "imageUrl": "https://cdn.jsdelivr.net/gh/chosanghyeon-dev/github-korean-promo@main/thumbnail.png",
-  "benefit": "추천 링크 전용 수강 할인가 적용"
+  "id": "onboarding-welcome-2026-07",
+  "enabled": true,
+  "badge": "오픈소스",
+  "title": "GitHub 한국어를 응원해 주세요 ⭐",
+  "desc": "이 확장은 오픈소스로 만들어지고 있어요. GitHub에서 별점을 주거나 번역 개선을 제안해 주시면 큰 힘이 됩니다.",
+  "cta": "GitHub 저장소 열기 →",
+  "partnerLink": "https://github.com/chosanghyeon-dev/chrome-extension"
 }
