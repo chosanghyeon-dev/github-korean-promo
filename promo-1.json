@@ -1,11 +1,11 @@
 {
-  "id": "welcome-ko-2026-07",
-  "enabled": true,
-  "title": "GitHub이 한국어로 표시되고 있어요 🇰🇷",
-  "desc": "이 확장이 GitHub 화면을 자동으로 번역하고 있어요. 번역이 어색하면 확장 아이콘을 눌러 설정에서 바꿀 수 있어요.",
-  "badge": "한국어",
-  "cta": "",
-  "link": "",
-  "note": "",
-  "imageUrl": ""
+  "id": "inflearn-dev-2026-06",
+  "enabled": false,
+  "title": "클로드 코드 완벽 마스터: AI 개발 워크플로우 기초부터 실전까지",
+  "desc": "탐색 → 계획 → 구현 → 커밋. 검증된 AI 개발 워크플로우를 클로드 코드로 마스터하세요. MCP, 서브에이전트, 프롬프트 엔지니어링까지 23개 미션으로 익히고, 3개 실전 프로젝트를 완성합니다.",
+  "badge": "AD",
+  "cta": "할인받고 강의 보러가기 →",
+  "link": "https://inf.run/rEwNV",
+  "imageUrl": "https://cdn.jsdelivr.net/gh/chosanghyeon-dev/github-korean-promo@main/thumbnail.png",
+  "note": "🎁 추천 링크 전용 수강 할인가 · 제휴 링크(구매 시 수수료를 받을 수 있어요)"
 }
